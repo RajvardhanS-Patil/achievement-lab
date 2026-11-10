@@ -5,3 +5,4 @@ Milestone update 4 for badge tier
 Milestone update 5 for badge tier
 Milestone update 6 for badge tier
 Milestone update 7 for badge tier
+Milestone update 8 for badge tier
